@@ -32,10 +32,10 @@ def send_message(token, chat_id, message):
         print("Erro no sendMessage:", e)
 
 # token único utilizado para manipular o bot (não deve ser compartilhado)
-token = '6236337226:AAFY8JtHOSmJkhFRa7JiQ70ibFwRcdlEdeY'
+token = #coloque seu token do bot aqui
 
 # id do chat que será enviado as mensagens
-chat_id = -963534650
+chat_id = #coloque o seu chat id aqui
 
 #le panilha
 planilha = load_workbook("cardapio.xlsx")
